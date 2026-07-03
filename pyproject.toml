@@ -35,8 +35,8 @@ dependencies = [
 dev = ["pytest", "pytest-asyncio"]
 
 [project.urls]
-Homepage = "https://github.com/xiaohanchen/archaeo-doc-parser"
-Issues = "https://github.com/xiaohanchen/archaeo-doc-parser/issues"
+Homepage = "https://github.com/alexxhchen-nu/archaeo-doc-parser"
+Issues = "https://github.com/alexxhchen-nu/archaeo-doc-parser/issues"
 
 [project.scripts]
 archaeo-doc-parser = "archaeo_doc_parser.server:main"

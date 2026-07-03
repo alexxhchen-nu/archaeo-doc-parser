@@ -11,7 +11,7 @@ Parse archaeological documents (PDF, images, Office files) to Markdown via [Mine
 uv pip install archaeo-doc-parser
 
 # Or from source
-git clone https://github.com/xiaohanchen/archaeo-doc-parser
+git clone https://github.com/alexxhchen-nu/archaeo-doc-parser
 cd archaeo-doc-parser
 uv pip install -e .
 ```
